@@ -1,8 +1,9 @@
-# Sup, I'm Nick, a computer-human interaction specialist
+# yo! I'm Nick and I'm making [NeoHaskell](https://neohaskell.org)
 
 ![pondering](https://github.com/user-attachments/assets/ce28c27c-7177-4674-a629-46b3b42f0c53)
 
-By night, I'm revolutionizing software development by making [NeoHaskell](https://neohaskell.org) happen. By day, I'm working as a Chief Meme Occultist at [The Agile Monkeys](https://www.theagilemonkeys.com/)
+By day, I'm working as a Chief Meme Occultist at [The Agile Monkeys](https://www.theagilemonkeys.com/). 
+By night, I cast spells to evoke [@NeoHaskell](https://github.com/NeoHaskell) out of the digital aether realms. 
 
 # Nerd-stats
 
