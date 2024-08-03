@@ -5,6 +5,11 @@ By night, I'm revolutionizing software development by making [NeoHaskell](https:
 # Nerd-stats
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 # Latest Writings
