@@ -10,7 +10,9 @@ By night, I cast spells to evoke [@NeoHaskell](https://github.com/NeoHaskell) ou
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Haskell   1 hr 30 mins    ██████████████████████░░░   88.51 %
+Other     11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Git       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
