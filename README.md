@@ -11,9 +11,13 @@ about what this means, neither do I. Send me a message and perhaps we can figure
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell   1 hr 30 mins    ██████████████████████░░░   88.51 %
-Other     11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Git       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+From: 27 July 2024 - To: 03 August 2024
+
+Total Time: 1 hr 30 mins
+
+Haskell   1 hr 30 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀   88.51 %
+Other     11 mins         ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.45 %
+Git       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.05 %
 ```
 
 <!--END_SECTION:waka-->
