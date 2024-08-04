@@ -24,11 +24,11 @@ Git       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 # Latest Writings
 <!-- BLOG-POST-LIST:START -->
+- [Introducing NeoHaskell v0.3.0: Triggers, Actions, and Services](https://dev.to/neohaskell/introducing-neohaskell-v030-triggers-actions-and-services-2ae)
 - [Announcing NeoHaskell v0.2.0: Bringing Elm-Inspired Architecture to CLI Apps](https://dev.to/neohaskell/announcing-neohaskell-v020-bringing-elm-inspired-architecture-to-cli-apps-54db)
 - [DevLog 00002 - A main loop working](https://dev.to/neohaskell/devlog-00002-a-main-loop-working-31kj)
 - [DevLog 00001 - Command Line Updates](https://dev.to/neohaskell/devlog-00001-command-line-updates-24f3)
 - [Happy Birthday Me, Happy Birthday NeoHaskell](https://dev.to/nickseagull/happy-birthday-me-happy-birthday-neohaskell-2nk5)
-- [Coming Out as an Eldritch God](https://dev.to/neohaskell/coming-out-as-an-eldritch-god-1nha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
