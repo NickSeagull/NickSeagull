@@ -3,7 +3,8 @@
 [![pondering](https://github.com/user-attachments/assets/ce28c27c-7177-4674-a629-46b3b42f0c53)](https://neohaskell.org)
 
 By day, I'm working as a Chief Meme Occultist binding the AI egregores at [The Agile Monkeys](https://www.theagilemonkeys.com/). 
-By night, I cast spells to evoke [@NeoHaskell](https://github.com/NeoHaskell) out of the digital aether realms. 
+By night, I cast spells to evoke [@NeoHaskell](https://github.com/NeoHaskell) out of the digital aether realms. If you have no idea
+about what this means, neither do I. Send me a message and perhaps we can figure it out together.
 
 # Nerd-stats
 
