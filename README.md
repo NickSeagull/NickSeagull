@@ -26,11 +26,11 @@ Markdown     6 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 # Latest Writings
 <!-- BLOG-POST-LIST:START -->
+- [NeoHaskell v0.5.0 - HTTP, TOML, Nested Actions Now Executed and Major Refactoring](https://dev.to/neohaskell/neohaskell-v050-http-toml-nested-actions-now-executed-and-major-refactoring-4cb6)
 - [NeoHaskell v0.4.0: Update with Concurrency Fixes and Architectural Improvements](https://dev.to/neohaskell/neohaskell-v040-update-with-concurrency-fixes-and-architectural-improvements-267b)
 - [Understanding Triggers in NeoHaskell: A Gateway to Event-Driven Programming](https://dev.to/neohaskell/understanding-triggers-in-neohaskell-a-gateway-to-event-driven-programming-49nb)
 - [Introducing NeoHaskell v0.3.0: Triggers, Actions, and Services](https://dev.to/neohaskell/introducing-neohaskell-v030-triggers-actions-and-services-2ae)
 - [Announcing NeoHaskell v0.2.0: Bringing Elm-Inspired Architecture to CLI Apps](https://dev.to/neohaskell/announcing-neohaskell-v020-bringing-elm-inspired-architecture-to-cli-apps-54db)
-- [DevLog 00002 - A main loop working](https://dev.to/neohaskell/devlog-00002-a-main-loop-working-31kj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
