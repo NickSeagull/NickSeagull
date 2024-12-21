@@ -8,12 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2024 - To: 18 December 2024
+From: 13 December 2024 - To: 19 December 2024
 
-Total Time: 59 mins
+Total Time: 0 secs
 
-Haskell   30 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.64 %
-Nix       28 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
